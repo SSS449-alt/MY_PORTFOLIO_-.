@@ -2,7 +2,7 @@
 
 AI/ML Engineer · Full-Stack Developer · B.Tech CS @ SGGSIE&T Nanded (CGPA: 7.79 | Minor: Data Science)
 
-📍 Nagpur, India · sukhdevesameer65@gmail.com · https://portfolio-sameer-nine.vercel.app/ · [leetcode.com/u/sambril](https://leetcode.com/u/sambril)
+📍 Nagpur, India · sukhdevesameer65@gmail.com · [https://portfolio-sameer-nine.vercel.app/](https://my-portfolio-nine-zeta-g53sa16r4i.vercel.app/) · [leetcode.com/u/sambril](https://leetcode.com/u/sambril)
 
 ---
 
