@@ -77,4 +77,4 @@ Coursework: DSA · OOP (Java) · DBMS · Machine Learning · Computer Networks �
 ## DSA
 
 [LeetCode — sambril](https://leetcode.com/u/sambril/)
-Arrays · Strings · HashMaps · Two Pointer · Sliding Window · Linked Lists · Dynamic Programming . Linked Lists . Stack & Queues and so on. 
+Arrays · Strings · HashMaps · Two Pointer · Sliding Window · Linked Lists · Dynamic Programming . Linked Lists . Stack & Queues and so on.
